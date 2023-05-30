@@ -1,12 +1,12 @@
 import nodemailer from "nodemailer";
 
-//💦
+//💦 gcuiicskkvbcgdly
 export default (req, res) => {
   const transporter = nodemailer.createTransport({
     service: "gmail",
     auth: {
       user: "dimord2015@gmail.com",
-      pass: "areg-2013",
+      pass: "gcuiicskkvbcgdly",
     },
   });
 
