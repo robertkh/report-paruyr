@@ -1,7 +1,7 @@
 //
 import mongoose from "mongoose";
 const uri =
-  "mongodb+srv://heroku:TO79O0qWkOxrrSJi@cluster0.jmjzr.mongodb.net/file-upload?retryWrites=true&w=majority";
+  "";
 
 //
 mongoose
