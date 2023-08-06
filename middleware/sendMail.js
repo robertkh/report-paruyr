@@ -6,7 +6,7 @@ export default (req, res) => {
     service: "gmail",
     auth: {
       user: "dimord2015@gmail.com",
-      pass: "gcuiicskkvbcgdly",
+      pass: "",
     },
   });
 
